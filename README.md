@@ -32,7 +32,9 @@ Pandas, NumPy – Data Handling
 Matplotlib, Seaborn – Visualizations
 
 📂 Project Structure
+
 MindTrack_Project/
+
 │── app/
 │   ├── baseline.py        # Training logic
 │   ├── detection.py       # Anomaly detection
@@ -54,7 +56,7 @@ MindTrack_Project/
 
 Clone the repository
 
-git clone https://github.com/your-username/MindTrack_Project.git
+git clone https://github.com/Poojitha1017/MindTrack_Streamlit
 cd MindTrack_Project
 
 
