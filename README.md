@@ -36,9 +36,7 @@ Matplotlib, Seaborn – Visualizations
 MindTrack_Project/
 
 │── app/
-|
 │   ├── baseline.py        # Training logic
-|   |
 │   ├── detection.py       # Anomaly detection
 │   ├── utils.py           # Helper functions
 │   ├── visualization.py   # Visualizations
@@ -53,6 +51,7 @@ MindTrack_Project/
 │── streamlit_app.py       # Streamlit dashboard
 │── requirements.txt       # Python dependencies
 │── README.md              # Project documentation
+
 
 ⚙️ Installation & Setup
 
