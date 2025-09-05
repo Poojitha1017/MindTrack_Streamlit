@@ -1,0 +1,18 @@
+{
+  "feature_values": {
+    "screen_time_min": 8500.0,
+    "unlock_count": 80.0,
+    "app_usage_var": 0.15,
+    "distinct_locations": 3.0,
+    "steps": 4000.0,
+    "sleep_hours": 4.0,
+    "calls_made": 20.0,
+    "calls_missed": 5.0,
+    "avg_heart_rate": 72.0,
+    "social_ratio": 0.7058823528581315,
+    "productivity_ratio": 0.29411764702422144,
+    "entertainment_ratio": 1.1764700325045396e-10,
+    "check_leave_ratio": 0.009411764704775087,
+    "mood_score": -0.5
+  }
+}
